@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SG7V4/3U0igbWG731Kl55tA5lPy9TgoxAcGqY6ccfEtYE7ei5aOmO8QGncdp5XIsYS3MjR8df+wYh2TiAolHlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\awaba\\Documents\\Old School Stuff\\College\\Computer Science\\NEA\\Programs\\Prototyping\\MonoGame Introduction to c# game programming\\tutorial 1 - Shooting gallary\\ShootingGallary\\ShootingGallary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\awaba\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\awaba\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
